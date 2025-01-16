@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(93, 89, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a, a:visited, a:active {
+    text-transform: uppercase;
+    color:gray;
+    font-weight: bold;
+    margin-right: 24px;
+}
+a:hover {
+    color: black;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
